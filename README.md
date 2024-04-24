@@ -210,7 +210,7 @@ When you are done, the output should look something like this:
 database: .token-cli
 address: token1rvzhmceq997zntgvravfagsks6w0ryud3rylh4cdvayry0dl97nsjzf3yp
 chainID: Em2pZtHr7rDCzii43an2bBi1M2mTFyLN33QP1Xfjy7BcWtaH9
-metadata (can be changed later): Ajidokwu
+metadata (can be changed later): DANNYSWISS
 continue (y/n): y
 ✅ txID: 27grFs9vE2YP9kwLM5hQJGLDvqEY9ii71zzdoRHNGC4Appavug
 ```
@@ -266,7 +266,7 @@ balance: 10000 27grFs9vE2YP9kwLM5hQJGLDvqEY9ii71zzdoRHNGC4Appavug
 
 #### Step 4: Create an Order
 
-So, we have some of our token (`Ajidokwu`)...now what? Let's put an order
+So, we have some of our token (`DANNYSWISS`)...now what? Let's put an order
 on-chain that will allow someone to trade the native token (`TKN`) for some.
 You can do so by running the following command from this location:
 
